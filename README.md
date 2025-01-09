@@ -1,4 +1,5 @@
-## Hi there 👋
+## About me
+### Hi, my name is Ananya Sarva. I am a junior at Canyon Crest Academy. I'm interested in learning more about programming and becoming more familiar and comfortable with coding. Some of my hobbies are playing the piano, singing, and playing soccer.  
 
 <!--
 **ananyasarva/ananyasarva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
